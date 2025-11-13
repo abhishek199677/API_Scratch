@@ -4,3 +4,7 @@ GET : data is global
 POST : sends data to the body (secured)
 PUT : updating the existing data
 DELETE : to delete the data 
+
+
+
+Global_url = https://7ffe7dd4dbc2.ngrok-free.app/abhishek/sunny/abc?a=10&b=5  (using ngrok)
